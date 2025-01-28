@@ -3,6 +3,16 @@ import pandas as pd
 import os
 from datetime import datetime
 
+unclear_list = []
+clear_list = []
+
+clear_number_list = []
+
+xlsx_files = []
+xml_files = []
+xlsx_dates = []
+xml_dates = []
+
 def open_book(xlsx_files, xml_files, xlsx_dates, xml_dates):
     """открытие книг"""
     all_files = os.listdir()
@@ -15,11 +25,6 @@ def open_book(xlsx_files, xml_files, xlsx_dates, xml_dates):
             xml_files.append(file)
             xml_dates.append(file[-15:-4:])
 
-xlsx_files = []
-xml_files = []
-xlsx_dates = []
-xml_dates = []
-
 open_book(xlsx_files=xlsx_files, xml_files=xml_files, xlsx_dates=xlsx_dates, xml_dates=xml_dates)
 
 xlsx_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
@@ -27,6 +32,12 @@ xlsx_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
 
 xml_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
             f'{xml_files[xml_dates.index(max(xml_dates))]}')
+
+old_xlsx_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
+                 f'{xlsx_files[xlsx_dates.index(min(xlsx_dates))]}')
+
+date = str(datetime.date(datetime.now())).split('-')
+new_file = f'Бронь {date[2]}.{date[1]}.{date[0]}.xlsx'
 
 def collect_data(schet_list, file, sheet):
     """сбор данных из прайс-листа"""
@@ -59,9 +70,9 @@ def write_data(file, number_list):
     row = 5
     for number in number_list:
         if number[0] != '1':
-            sheet[f'A{row}'] = number
+            sheet[f'A{row}'] = int(number)
         else:
-            sheet[f'A{row}'] = number[2::]
+            sheet[f'A{row}'] = int(number[2::])
 
         row += 1
 

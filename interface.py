@@ -1,16 +1,21 @@
-from excel import *
-from parse import *
+from excel import (create_table, write_data,
+                   unclear_list, clear_list, clear_number_list, xml_file, xlsx_file, new_file)
+from parse import (parse_numbers, clean_numbers)
 
+import openpyxl as op
+import pandas as pd
+import os
 import sys
 from PyQt5.QtCore import QSize
 from PyQt5.QtWidgets import QApplication, QPushButton, QLineEdit, QMainWindow
 
 def on_clicked():
-    print('clicked')
+    print('Clicked')
 
     parse_numbers(unclear_data=unclear_list, clear_data=clear_list, data_file=xml_file)
 
     clean_numbers(unclear_numbers=clear_list, clear_numbers=clear_number_list)
+
     print(clear_number_list)
 
     create_table(file=new_file)
@@ -63,19 +68,11 @@ def main():
     app.exec()
 
 if __name__ == "__main__":
-    unclear_list = []
-    clear_list = []
-
-    clear_number_list = []
-
     main_file = xlsx_file  # данные о книге
     main_book = op.load_workbook(main_file)
 
     xls = pd.ExcelFile(main_file)
 
     main_sheet = xls.sheet_names[0]
-
-    date = str(datetime.date(datetime.now())).split('-')
-    new_file = f'Бронь {date[2]}.{date[1]}.{date[0]}.xlsx'
 
     main()

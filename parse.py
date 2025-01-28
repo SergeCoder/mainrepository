@@ -1,9 +1,9 @@
-from excel import (collect_data, xlsx_file)
+from excel import (collect_data,
+                   old_xlsx_file)
 
 from bs4 import BeautifulSoup as bs
 import openpyxl as op
 import pandas as pd
-import os
 from datetime import datetime
 
 unclear_list = []
@@ -11,20 +11,7 @@ clear_list = []
 
 clear_number_list = []
 
-# xlsx_files = []
-# xml_files = []
-# xlsx_dates = []
-# xml_dates = []
-#
-# open_book(xlsx_files=xlsx_files, xml_files=xml_files, xlsx_dates=xlsx_dates, xml_dates=xml_dates)
-#
-# xlsx_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
-#              f'{xlsx_files[xlsx_dates.index(max(xlsx_dates))]}')
-#
-# xml_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
-#             f'{xml_files[xml_dates.index(max(xml_dates))]}')
-
-main_file = xlsx_file # данные о книге
+main_file = old_xlsx_file # данные о книге
 main_book = op.load_workbook(main_file)
 
 xls = pd.ExcelFile(main_file)
