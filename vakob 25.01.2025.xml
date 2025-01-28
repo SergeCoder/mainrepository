@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DECLARBODY>
+<KOLVAK_VSEGO>103</KOLVAK_VSEGO>
+<KOLVAK_MENEDGER>
+<ROW><MENEDGER>Каспарова</MENEDGER><KOLVAK>16</KOLVAK></ROW>
+<ROW><MENEDGER>Коровкина</MENEDGER><KOLVAK>23</KOLVAK></ROW>
+<ROW><MENEDGER>Перцева</MENEDGER><KOLVAK>31</KOLVAK></ROW>
+<ROW><MENEDGER>Матвеева</MENEDGER><KOLVAK>17</KOLVAK></ROW>
+<ROW><MENEDGER>Смирнов</MENEDGER><KOLVAK>1</KOLVAK></ROW>
+<ROW><MENEDGER>Кочкина</MENEDGER><KOLVAK>1</KOLVAK></ROW>
+<ROW><MENEDGER>Белова</MENEDGER><KOLVAK>7</KOLVAK></ROW>
+<ROW><MENEDGER>Нестерова</MENEDGER><KOLVAK>5</KOLVAK></ROW>
+<ROW><MENEDGER>Бабичева</MENEDGER><KOLVAK>2</KOLVAK></ROW>
+</KOLVAK_MENEDGER>
+<ROW>
+<SCHETNOMER>Кас000006399</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>город Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>63</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>город Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>63</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Автослесарь</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>АО КАРАВАЙ </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/1029.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5200000110</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 4-289-559</TELEF_NOMER></TELEF>
+<ZARPL>от 55000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №8  60,5х76</REKLAMAGAZETA>
+<ZARPLSITE>от 55000 руб./месяц`от 55000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>karavay@karavaynn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>karavay@karavaynn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: проведение необходимых ремонтных мероприятий по указанию своего руководителяW слесарная обработка составляющих автомашиныW чистка необходимых деталей машин и их разбраковкаW контроль за заменой изношенных и неисправных составляющих автомашиныW поддержание порядка на месте работыW бережное обращение с инструментами, спецодеждой и инвентарем.
+Требования: опыт работыW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы 1: дни работы 1: 2/2, время работы 1: 08:00-20:00 W зарплата: от 55000 руб./месяц W график работы 2: дни работы 2: 2/2, время работы 2: 20:00-08:00 W адрес места работы: город Нижний Новгород, Советский район, улица Ошарская, дом 74 W ответственный за прием на работу Татьяна ГенриховнаW звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>350</RUBRNOMER>
+<RUBR>Автобизнес --> Автосервис. АЗС</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Продукты питания</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>2/2</GAFIK><GAFIK NUMB='4'>20:00-08:00</GAFIK><GAFIK NUMB='5'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003551</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>20.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Автослесарь</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Чистый двор-НН </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5261092573</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-430-090</TELEF_NOMER></TELEF>
+<ZARPL>от 58000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 58000 руб./месяц`от 58000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>OK@NIZH.MAG-RF.RU</ELPOCHTA>
+<ELPOCHTAKADROVIK>e.kuymova@nizh.mag-rf.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ремонт и обслуживание автотранспорта W своевременная диагностика W устранение неисправностей W профилактический осмотр транспортных средств W контроль технического состояния транспорта.
+Требования: профис образование W опыт работы с грузовыми автомобилями W знание устройства грузовых автомобилей W ответственность W внимательность.
+Условия: график работы: дни работы: 3/3, время работы: 08:00-18:00 W зарплата: от 58000 руб./месяц W спец. одежда W адрес места работы: город Нижний Новгород, Московский район, Московское шоссе, дом 83/А, корпус 23 W ответственный за прием на работу Евгения W звонить: 08:00-18:00</DOPINFORMS>
+<RUBRNOMER>350</RUBRNOMER>
+<RUBR>Автобизнес --> Автосервис. АЗС</RUBR>
+<RUBR_NAJ>Рабочий персонал --> Рабочие специальности</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>3/3</GAFIK><GAFIK NUMB='2'>08:00-18:00</GAFIK><GAFIK NUMB='3'>08:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003550</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Агроном</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ПАО Лакша </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5245001988</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (83170) 44-500</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 951 902-3800</TELEF_NOMER></TELEF>
+<ZARPL>от 65000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 65000 руб./месяц`от 65000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>laksha-sec@yandex.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>laksha-sec@yandex.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: планирование и контроль агрономических процессов W организация работы подчиненных W изучение новых технологий W внедрение современных методов борьбы с вредителями W работа над повышением урожайности.
+Требования: ответственность W внимательность W трудолюбие W спец. подготовка W профис образование.
+Условия: график работы: дни работы: 2/2, время работы: 07:00-20:00 W зарплата: от 65000 руб./месяц W адрес места работы: Нижегородская область, Богородский район, село Лакша W ответственный за прием на работу Анна Алексеевна W звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>358</RUBRNOMER>
+<RUBR>Производство. Промышленность --> Продукты питания</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Продукты питания</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>07:00-20:00</GAFIK><GAFIK NUMB='3'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005011</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>09.01.25</SCHETDATA>
+<OPISANIYEKOMPAN>Федеральное бюджетное учреждение здравоохранения «Приволжский окружной медицинский центр» учрежден приказом Министра здравоохранения РФ от 17.10.2001 г. № 375 в целях оптимизации использования средств федерального бюджета.
+
+В него входят 4 стационара, 5 поликлиник в г. Нижний Новгород и 5 филиалов.
+
+Основная задача Центра - оказание медицинской помощи лицам с вредными и особо опасными условиями труда (в том числе при проведении водолазных и кессонных работ), работникам водного транспорта, атомной и космической промышленности, государственным гражданским служащим.
+
+Численность прикрепленного контингента составляет 260 806 человек. Филиалы Центра работают в рамках территориальных программ обязательного медицинского страхования. Они расположены на основных водных  магистралях и максимально приближены к местам дислокации баз флота, гидротехническим объектам, что наряду с использованием корпоративной компьютерной сети и телемедицинских технологий позволяет организовать эффективное оказание лечебно-диагностической, консультативной помощи на местах и обеспечивает своевременную госпитализацию больных.
+
+Основными клиническими направлениями деятельности ФБУЗ «ПОМЦ ФМБА России» являются: трансплантация органов и тканей, распространенные онкологические процессы брюшной полости, хирургическая гепатология, реконструктивно-восстановительные операции при опухолях мочеполовой системы, оперативная и консервативная офтальмология, малоинвазивные вмешательства при хирургической, урологической, гинекологической и ЛОР-патологии.
+
+Центр занимает лидирующее положение в России по количеству выполняемых операций резекции печени и является одним из пяти медицинских учреждений страны, где проводится трансплантация печени.
+
+ФБУЗ «ПОМЦ ФМБА России» является клинической базой 7 кафедр Нижегородской государственной медицинской академии и 3 кафедр Военно-медицинского института. За период с 2002 г. защищено 6 кандидатских и 2 докторских диссертации. Ведется работа по написанию 6 кандидатских и 2 докторских диссертаций. Получено 3 патента на изобретения. Одним из направлений научной работы является участие в 3-х грантах РФФИ: ближнепольная СВЧ-радиометрия биологических объектов, неинвазивная экспресс-диагностика радиофизическими методами жизнеспособности паренхиматозных органов при критических состояниях, интраоперационная аблация опухолей паренхиматозных органов с помощью энергии СВЧ поля.
+
+На настоящем этапе в учреждении сосредоточен мощный кадровый и материально-технический потенциал, позволяющий обеспечить оказание высокоспециализированной медицинской помощи населению на самом современном уровне.</OPISANIYEKOMPAN>
+<OPISANIYETEL>Общие вопросы +7(831)428-81-88, Отдел кадров +7(831)421 82 41, HR-специалист +7(831)4218285, </OPISANIYETEL>
+<OPISANIYEWEB>https://pomc.ru/</OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>Нижегородский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603001</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>Нижегородский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603001</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Администратор в больницу</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ФБУЗ ПОМЦ ФМБА России . </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112183.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5260101352</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 4-218-285</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 4-218-241</TELEF_NOMER></TELEF>
+<ZARPL>от 40000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №3 127х85</REKLAMAGAZETA>
+<ZARPLSITE>от 40000 руб./месяц`от 40000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>ok-hr@pomc.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>ok-hr@pomc.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: работа в больнице W прием звонков и заявок W консультирование клиентов по услугам центра W запись на прием к специалистам W ведение документации.
+Требования: опыт работы администратором-желательно W умение и желание общаться с клиентами W дорожелательность W коммуникабельность W ответственность.
+Условия: график работы: дни работы: 2/2, время работы: 8:00-20:00 W зарплата: от 40000 руб./месяц W оформление по ТК РФ, соц.пакет W адрес места работы: город Нижний Новгород, Приокский район, Ленинский район, Московский район W ответственный за прием на работу Людмила W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>8:00-20:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006407</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>27.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Бухгалтер</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>МП города Нижнего Новгорода Комбинат ритуальных услуг населению </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5253000339</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (83143) 34-547</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 904 909-4496</TELEF_NOMER></TELEF>
+<ZARPL>от 40000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 40000 руб./месяц`от 40000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>krun-ok@mail.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>krun-ok@mail.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ведет бухгалтерский и налоговый учетW организует документооборотW отправляет необходимую отчетность в ИФНС, ПФР и некоторые другие госорганыW занимается расчетом и выплатой зарплаты сотрудникамW поддержание чистоты на рабочем месте.
+Требования: опыт работыW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы: дни работы: 5/2, время работы: 08:00-17:00 W зарплата: от 40000 руб./месяц W зарплата 2 раза в месяц без задержекW адрес места работы: город Нижний Новгород, Советский район, улица Пушкина, дом 34 W ответственный за прием на работу ЭлинаW звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>47</RUBRNOMER>
+<RUBR>Сфера финансов --> Бухгалтерия</RUBR>
+<RUBR_NAJ>Сфера финансов --> Бухгалтерия</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>08:00-17:00</GAFIK><GAFIK NUMB='3'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005011</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>09.01.25</SCHETDATA>
+<OPISANIYEKOMPAN>Федеральное бюджетное учреждение здравоохранения «Приволжский окружной медицинский центр» учрежден приказом Министра здравоохранения РФ от 17.10.2001 г. № 375 в целях оптимизации использования средств федерального бюджета.
+
+В него входят 4 стационара, 5 поликлиник в г. Нижний Новгород и 5 филиалов.
+
+Основная задача Центра - оказание медицинской помощи лицам с вредными и особо опасными условиями труда (в том числе при проведении водолазных и кессонных работ), работникам водного транспорта, атомной и космической промышленности, государственным гражданским служащим.
+
+Численность прикрепленного контингента составляет 260 806 человек. Филиалы Центра работают в рамках территориальных программ обязательного медицинского страхования. Они расположены на основных водных  магистралях и максимально приближены к местам дислокации баз флота, гидротехническим объектам, что наряду с использованием корпоративной компьютерной сети и телемедицинских технологий позволяет организовать эффективное оказание лечебно-диагностической, консультативной помощи на местах и обеспечивает своевременную госпитализацию больных.
+
+Основными клиническими направлениями деятельности ФБУЗ «ПОМЦ ФМБА России» являются: трансплантация органов и тканей, распространенные онкологические процессы брюшной полости, хирургическая гепатология, реконструктивно-восстановительные операции при опухолях мочеполовой системы, оперативная и консервативная офтальмология, малоинвазивные вмешательства при хирургической, урологической, гинекологической и ЛОР-патологии.
+
+Центр занимает лидирующее положение в России по количеству выполняемых операций резекции печени и является одним из пяти медицинских учреждений страны, где проводится трансплантация печени.
+
+ФБУЗ «ПОМЦ ФМБА России» является клинической базой 7 кафедр Нижегородской государственной медицинской академии и 3 кафедр Военно-медицинского института. За период с 2002 г. защищено 6 кандидатских и 2 докторских диссертации. Ведется работа по написанию 6 кандидатских и 2 докторских диссертаций. Получено 3 патента на изобретения. Одним из направлений научной работы является участие в 3-х грантах РФФИ: ближнепольная СВЧ-радиометрия биологических объектов, неинвазивная экспресс-диагностика радиофизическими методами жизнеспособности паренхиматозных органов при критических состояниях, интраоперационная аблация опухолей паренхиматозных органов с помощью энергии СВЧ поля.
+
+На настоящем этапе в учреждении сосредоточен мощный кадровый и материально-технический потенциал, позволяющий обеспечить оказание высокоспециализированной медицинской помощи населению на самом современном уровне.</OPISANIYEKOMPAN>
+<OPISANIYETEL>Общие вопросы +7(831)428-81-88, Отдел кадров +7(831)421 82 41, HR-специалист +7(831)4218285, </OPISANIYETEL>
+<OPISANIYEWEB>https://pomc.ru/</OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>Нижегородский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603001</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>Нижегородский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603001</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водители автомобиля</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ФБУЗ ПОМЦ ФМБА России . </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112183.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5260101352</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 4-218-285</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 4-218-241</TELEF_NOMER></TELEF>
+<ZARPL>от 50000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №3 127х85</REKLAMAGAZETA>
+<ZARPLSITE>от 50000 руб./месяц`от 50000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>ok-hr@pomc.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>ok-hr@pomc.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: транспортировка грузов W доставка в пункт назначения W поездки по городу W доставка грузов в целости и сохранности W выполнение рейсов согласно инсТРКуциям руководства.
+Требования: водительское удостоверение кат. В, С W опыт работы будет преимуществом W знание основных транспортных развязок и дорог W ответственность W дисциплинированность.
+Условия: график работы 1: дни работы: 5/2, время работы 1: 8:00-17:00 W график работы 2: дни работы: 5/2, время работы 2: 8:00-20:00 W зарплата: от 50000 руб./месяц W оформление по ТК РФ, соц.пакет W адрес места работы: город Нижний Новгород, Нижегородский район, Нижне-Волжская набережная, дом 2 W ответственный за прием на работу Людмила W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>8:00-17:00</GAFIK><GAFIK NUMB='3'>5/2</GAFIK><GAFIK NUMB='4'>8:00-20:00</GAFIK><GAFIK NUMB='5'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003551</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>20.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водитель</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Чистый двор-НН </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5261092573</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-430-090</TELEF_NOMER></TELEF>
+<ZARPL>от 115000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 115000 руб./месяц`от 115000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>OK@NIZH.MAG-RF.RU</ELPOCHTA>
+<ELPOCHTAKADROVIK>e.kuymova@nizh.mag-rf.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: перевозка КГМ, ТБО на бункеровозе W перевозка строительных отходов W безаварийное вождение W текущий ремонт автомобиля W ведение путевых листов.
+Требования: права кат. В, С W опыт вождения от 2-х лет W умение пользоваться навигатором W ответственность W внимательность.
+Условия: график работы: дни работы: 3/3, время работы: 08:00-18:00 W зарплата: от 115000 руб./месяц W спец. одежда W адрес места работы: город Нижний Новгород, Московский район, Московское шоссе, дом 83/А, корпус 23 W ответственный за прием на,
+работу Евгения W звонить: 08:00-18:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Рабочий персонал --> Рабочие специальности</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>3/3</GAFIK><GAFIK NUMB='2'>08:00-18:00</GAFIK><GAFIK NUMB='3'>08:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>ОМ0000023371</SCHETNOMER>
+<ELPOCHTAMENEDGER>iseleva.l@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>23.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водитель</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Автотранспортное предприятие </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5256064757</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (83143) 51-316</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 2-957-705</TELEF_NOMER></TELEF>
+<ZARPL>от 40000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 40000 руб./месяц`от 40000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>n.bichkova1979@mail.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>n.bichkova1979@mail.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Требования: дисциплинированностьW права кат. С W опыт работы желателенW пунктуальностьW исполнительность.
+Обязанности: развоз продукции и материалов компании W выполнение должностных инструкцийW соблюдение техники безопасностиW контроль на входеW соблюдение порядка на объекте.
+Условия: оформление в соответствии с ТК РФ W график работы: дни работы: 5/2, время работы: 07:00-17:00 W официальная своевременная зарплата: от 40000 руб./месяц W возможно трудоустройство по совместительствуW адрес собеседования и адрес работы: город Нижний Новгород, Автозаводский район, проспект Молодежный, дом 2 W ответственный за прием на работу НатальяW звонить: 09:00-17:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Транспорт --> Наземный</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>07:00-17:00</GAFIK><GAFIK NUMB='3'>09:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005012</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>09.01.25</SCHETDATA>
+<OPISANIYEKOMPAN>Предприятие «СОТЕКС» образовано в 1992 году и на сегодняшний день является крупнейшим производителем автокомпонентов в стране. 
+Основным направлением деятельности предприятия является производство эластичного пенополиуретана (ППУ) – набивок автомобильных сидений.
+Численность предприятия - свыше 500 человек. Доля в общем объеме выпуска набивок ППУ в России составляет около 40%.
+Производство ЗАО «НПП «СОТЕКС» является уникальным бизнесом, так как оно стало первым и до сих пор единственным источником 
+качественного и многофункционального эластичного пенополиуретана и сидений для мировых ОЕМ в России.
+ЗАО «НПП «СОТЕКС» является предприятием, которое работает полностью открыто в плане заработной платы 
+и налогообложения и для работников действуют все социальные гарантии, предусмотренные трудовым законодательством РФ. 
+Работникам предоставляется ежегодный основной отпуск, заработная плата выплачивается 2 раза в месяц четко в соответствии с датами, 
+указанными в «Положении об оплате труда»; работникам, занятым в производстве выдается спецодежда и средства индивидуальной защиты, 
+оплата больничного листа производится в соответствии с действующим законодательством.
+
+Мы предлагаем также:
+дотацию на питание в собственной столовой
+льготный проезд на служебном автобусе
+оказание первой медицинской помощи в фельдшерском пункте
+ежегодный медицинский осмотр
+предоставление путевок в детские оздоровительные лагеря для детей сотрудников.</OPISANIYEKOMPAN>
+<OPISANIYETEL>Руководство компании +7(831)297-30-29, Отдел продаж +7(831)298-04-11, HR отдел +7(831)298-03-92, </OPISANIYETEL>
+<OPISANIYEWEB>http://sotex-nn.ru/ru</OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Шуваловский проезд</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>5</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Автозаводский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603033</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Шуваловский проезд</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>5</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Автозаводский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603033</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водитель погрузчика</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>АО НПП СОТЕКС . </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/714.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5259000310</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 910 870-0126</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 910 871-4370</TELEF_NOMER><TELEF_NOMER NUMB='3'>+7 (831) 2-980-392</TELEF_NOMER></TELEF>
+<ZARPL>от 60000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №3 127х85</REKLAMAGAZETA>
+<ZARPLSITE>от 60000 руб./месяц`от 60000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>v.bunicheva@sotex-nn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>t.frolova@sotex-nn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: погрузо-разгрузочные работы на крупном предприятии по производству автокомпонентов W управление погрузчиком W перемещение грузов по по территории W выполнение поручений мастера смены W работа на складе.
+Требования: опыт работы приветствуется W среднее образование W удостоверение W ответственность W дисциплинированность.
+Условия: график работы: дни работы: 2/2, время работы: 8:00-19:00 W зарплата: от 60000 руб./месяц W служебный транспорт W адрес места работы: город Нижний Новгород, Автозаводский район, проезд Шуваловский, дом 5 W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Техника и оборудование</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>8:00-19:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>СВ0000007411</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>16.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водитель-экспедитор</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ИП Киреев Артем Борисович</NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>325000100245</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 915 930-8038</TELEF_NOMER></TELEF>
+<ZARPL>35000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>1`35000`70000`руб.</ZARPLSITE>
+<ELPOCHTA>borisova@exppro.su</ELPOCHTA>
+<ELPOCHTAKADROVIK>borisova@exppro.su</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: вождение транспортаWездить в командировкиW соблюдение техники безопасностиW соблюдение правил дорожного движенияWработа на погрузчике.
+Требования: без вредных привычекW ответственностьW быстрая обучаемостьW отзывчивостьW исполнительностьW желание работать и зарабатывать.
+Условия: график работы: дни работы: 2/2, время работы: 8:00-20:00 Wзарплата: 35000 руб./месяц W адрес места работы: город Нижний НовгородW ответственный за прием на работу Елена ВикторовнаW звонить: 8:00-17:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Транспорт --> Наземный</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>8:00-20:00</GAFIK><GAFIK NUMB='3'>8:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006399</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>город Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>63</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>город Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>63</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Водитель-экспедитор</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>АО КАРАВАЙ </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/1029.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5200000110</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 4-289-559</TELEF_NOMER></TELEF>
+<ZARPL>от 55000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №8  60,5х76</REKLAMAGAZETA>
+<ZARPLSITE>от 55000 руб./месяц`от 55000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>karavay@karavaynn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>karavay@karavaynn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: доставка груза к месту назначенияW обеспечивает должный режим хранения и сохранность товараW оформляет документы приема и сдачиW контроль за техническим состоянием машиныW информирование руководства по основным рабочим моментам.
+Требования: опыт работыW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы 1: дни работы 1: 2/2, время работы 1: 08:00-20:00 W зарплата: от 55000 руб./месяц W график работы 2: дни работы 2: 2/2, время работы 2: 20:00-08:00 W адрес места работы: город Нижний Новгород, Советский район, улица Ошарская, дом 74 W ответственный за прием на работу Татьяна ГенриховнаW звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>14</RUBRNOMER>
+<RUBR>Транспорт --> Наземный</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Продукты питания</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>2/2</GAFIK><GAFIK NUMB='4'>20:00-08:00</GAFIK><GAFIK NUMB='5'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003547</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>16.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Врач невролог</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Санаторий Городецкий </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/7398.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5248013357</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (83161) 46-588</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 960 168-9326</TELEF_NOMER></TELEF>
+<ZARPL>от 70000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 70000 руб./месяц`от 70000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>kadri@sangor.bizml.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>kadri@sangor.bizml.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: первичный осмотр пациентов W проведение диагностики W назначение лечения W назначение процедур W выписка рецептов.
+Требования: высшее медицинское образование W с опытом работы W умение расшифровывать анализы W умение ставить диагноз W умение прогнозировать заболевание.
+Условия: график работы: дни работы: 5/2, время работы: 08:00-17:00 W зарплата: от 70000 руб./месяц W предоставление жилья W адрес места работы: Нижегородская область, Городецкий район, поселок Аксентис W ответственный за прием на работу Юлия Борисовна W звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>08:00-17:00</GAFIK><GAFIK NUMB='3'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005009</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>Клиническая больница «РЖД-Медицина» города Нижний Новгород является крупнейшим в городе лечебно-профилактическим учреждением. 
+Здесь оказывают полный спектр медицинских услуг высочайшего качества.
+Миссия:
+Мы – сотрудники “Клинической больницы “РЖД-Медицина” города Нижний Новгород”, учреждения здравоохранения ОАО «РЖД» – «РЖД-Медицина»
+– самой крупной в России сети негосударственных учреждений здравоохранения. Мы – команда профессионалов, выстраивающих свою работу, 
+основываясь на принципах доверия, стабильности, качества, индивидуального подхода к пациентам, оказания многопрофильной медицинской помощи, 
+применяя новые технологии, с заботой возвращаем нашим пациентам высшую ценность – здоровье, в условиях уюта, комфорта и тепла.
+Наша цель– стать лучшей медицинской клиникой, применяющей передовые технологии, отличающейся высоким качеством медицинской деятельности и сервисом обслуживания
+Ценности, которыми руководствуется персонал:
+-Профессионализм
+-Опыт
+-Внимание к людям
+-Стабильность
+-Безопасность
+-Ответственность</OPISANIYEKOMPAN>
+<OPISANIYETEL>Офис +7(831)228-42-84, HR отдел +7(831)248-67-58, </OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Ленина проспект</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>18</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Ленинский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603140</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Ленина проспект</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>18</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Ленинский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603140</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Врач невролог</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ЧУЗ КБ РЖД-Медицина </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112101.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5258051464</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-484-896</TELEF_NOMER></TELEF>
+<ZARPL>от 65000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 65000 руб./месяц`от 65000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>zhurovaia@dkbnn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>shotinaoa@dkbnn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ведет амбулаторный прием пациентов в поликлинике W разработка плана обследования, лечения пациента W оказание медицинской помощи по неврологии W ведение медицинской документации.
+Требования: высшее медицинское образование W послевузовская подготовка по профильной специальности W наличие сертификата по специальности W внимательное отношение к пациентам W дисциплинированностьW ответственность.
+Условия: график работы: дни работы: 5/2, время работы: 8:00-17:00 W зарплата: от 65000 руб./месяц W оформление по ТК РФ, полный соцпакет (льготы, отпуска, больничные) W адрес места работы: город Нижний Новгород, Ленинский район, проспект Ленина, дом 18 W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>8:00-17:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005009</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>Клиническая больница «РЖД-Медицина» города Нижний Новгород является крупнейшим в городе лечебно-профилактическим учреждением. 
+Здесь оказывают полный спектр медицинских услуг высочайшего качества.
+Миссия:
+Мы – сотрудники “Клинической больницы “РЖД-Медицина” города Нижний Новгород”, учреждения здравоохранения ОАО «РЖД» – «РЖД-Медицина»
+– самой крупной в России сети негосударственных учреждений здравоохранения. Мы – команда профессионалов, выстраивающих свою работу, 
+основываясь на принципах доверия, стабильности, качества, индивидуального подхода к пациентам, оказания многопрофильной медицинской помощи, 
+применяя новые технологии, с заботой возвращаем нашим пациентам высшую ценность – здоровье, в условиях уюта, комфорта и тепла.
+Наша цель– стать лучшей медицинской клиникой, применяющей передовые технологии, отличающейся высоким качеством медицинской деятельности и сервисом обслуживания
+Ценности, которыми руководствуется персонал:
+-Профессионализм
+-Опыт
+-Внимание к людям
+-Стабильность
+-Безопасность
+-Ответственность</OPISANIYEKOMPAN>
+<OPISANIYETEL>Офис +7(831)228-42-84, HR отдел +7(831)248-67-58, </OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Ленина проспект</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>18</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Ленинский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603140</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Ленина проспект</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>18</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Ленинский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603140</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Врач оториноларинголог</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ЧУЗ КБ РЖД-Медицина </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112101.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5258051464</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-484-896</TELEF_NOMER></TELEF>
+<ZARPL>от 70000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 70000 руб./месяц`от 70000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>zhurovaia@dkbnn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>shotinaoa@dkbnn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ведет амбулаторный прием пациентов в поликлинике W выявляет и осуществляет мониторинг факторов риска развития хронических заболеваний W осуществляет первичную профилактику W выполняет перечень работ и услуг для диагностики заболевания W проводит лечение пациентов.
+Требования: высшее медицинское образование W послевузовская подготовка по профильной специальности W наличие сертификата по специальности W внимательное отношение к пациентам W дисциплинированностьW ответственность.
+Условия: график работы: дни работы: 5/2, время работы: 8:00-17:00 W зарплата: от 70000 руб./месяц W оформление по ТК РФ, полный соцпакет (льготы, отпуска, больничные) W адрес места работы: город Нижний Новгород, Ленинский район, проспект Ленина, дом 18 W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>8:00-17:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005009</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>Клиническая больница «РЖД-Медицина» города Нижний Новгород является крупнейшим в городе лечебно-профилактическим учреждением. 
+Здесь оказывают полный спектр медицинских услуг высочайшего качества.
+Миссия:
+Мы – сотрудники “Клинической больницы “РЖД-Медицина” города Нижний Новгород”, учреждения здравоохранения ОАО «РЖД» – «РЖД-Медицина»
+– самой крупной в России сети негосударственных учреждений здравоохранения. Мы – команда профессионалов, выстраивающих свою работу, 
+основываясь на принципах доверия, стабильности, качества, индивидуального подхода к пациентам, оказания многопрофильной медицинской помощи, 
+применяя новые технологии, с заботой возвращаем нашим пациентам высшую ценность – здоровье, в условиях уюта, комфорта и тепла.
+Наша цель– стать лучшей медицинской клиникой, применяющей передовые технологии, отличающейся высоким качеством медицинской деятельности и сервисом обслуживания
+Ценности, которыми руководствуется персонал:
+-Профессионализм
+-Опыт
+-Внимание к людям
+-Стабильность
+-Безопасность
+-Ответственность</OPISANIYEKOMPAN>
+<OPISANIYETEL>Офис +7(831)228-42-84, HR отдел +7(831)248-67-58, </OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Ленина проспект</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>18</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Ленинский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603140</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Ленина проспект</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>18</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Ленинский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603140</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Врач терапевт участковый</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ЧУЗ КБ РЖД-Медицина </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112101.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5258051464</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-484-896</TELEF_NOMER></TELEF>
+<ZARPL>от 70000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 70000 руб./месяц`от 70000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>zhurovaia@dkbnn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>shotinaoa@dkbnn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ведет амбулаторный прием пациентов в поликлинике W выявляет и осуществляет мониторинг факторов риска развития хронических заболеваний W осуществляет первичную профилактику W выполняет перечень работ и услуг для диагностики заболевания W проводит лечение пациентов.
+Требования: высшее медицинское образование W послевузовская подготовка по профильной специальности W наличие сертификата по специальности W внимательное отношение к пациентам W дисциплинированностьW ответственность.
+Условия: график работы: дни работы: 5/2, время работы: 8:00-17:00 W зарплата: от 70000 руб./месяц W оформление по ТК РФ, полный соцпакет (льготы, отпуска, больничные) W адрес места работы: город Нижний Новгород, Ленинский район, проспект Ленина, дом 18 W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>8:00-17:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005009</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>Клиническая больница «РЖД-Медицина» города Нижний Новгород является крупнейшим в городе лечебно-профилактическим учреждением. 
+Здесь оказывают полный спектр медицинских услуг высочайшего качества.
+Миссия:
+Мы – сотрудники “Клинической больницы “РЖД-Медицина” города Нижний Новгород”, учреждения здравоохранения ОАО «РЖД» – «РЖД-Медицина»
+– самой крупной в России сети негосударственных учреждений здравоохранения. Мы – команда профессионалов, выстраивающих свою работу, 
+основываясь на принципах доверия, стабильности, качества, индивидуального подхода к пациентам, оказания многопрофильной медицинской помощи, 
+применяя новые технологии, с заботой возвращаем нашим пациентам высшую ценность – здоровье, в условиях уюта, комфорта и тепла.
+Наша цель– стать лучшей медицинской клиникой, применяющей передовые технологии, отличающейся высоким качеством медицинской деятельности и сервисом обслуживания
+Ценности, которыми руководствуется персонал:
+-Профессионализм
+-Опыт
+-Внимание к людям
+-Стабильность
+-Безопасность
+-Ответственность</OPISANIYEKOMPAN>
+<OPISANIYETEL>Офис +7(831)228-42-84, HR отдел +7(831)248-67-58, </OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Ленина проспект</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>18</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Ленинский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603140</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Ленина проспект</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>18</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Ленинский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603140</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Врач уролог</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ЧУЗ КБ РЖД-Медицина </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112101.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5258051464</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-484-896</TELEF_NOMER></TELEF>
+<ZARPL>от 70000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 70000 руб./месяц`от 70000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>zhurovaia@dkbnn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>shotinaoa@dkbnn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: ведет амбулаторный прием пациентов в поликлинике W выявляет и осуществляет мониторинг факторов риска развития хронических заболеваний W осуществляет первичную профилактику W выполняет перечень работ и услуг для диагностики заболевания W проводит лечение пациентов.
+Требования: высшее медицинское образование W послевузовская подготовка по профильной специальности W наличие сертификата по специальности W внимательное отношение к пациентам W дисциплинированностьW ответственность.
+Условия: график работы: дни работы: 5/2, время работы: 8:00-17:00 W зарплата: от 70000 руб./месяц W оформление по ТК РФ, полный соцпакет (льготы, отпуска, больничные) W адрес места работы: город Нижний Новгород, Ленинский район, проспект Ленина, дом 18 W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>330</RUBRNOMER>
+<RUBR>Фармацевтика. Медицина --> Медицина</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>8:00-17:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003547</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>16.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Горничная</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Санаторий Городецкий </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/7398.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5248013357</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (83161) 46-588</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 960 168-9326</TELEF_NOMER></TELEF>
+<ZARPL>от 30000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 30000 руб./месяц`от 30000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>kadri@sangor.bizml.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>kadri@sangor.bizml.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: уборка номерного фонда W вынос мусора W смена постельного белья W соблюдение санитарных норм W соблюдение гигиенических норм.
+Требования: чистоплотность, внимательность, аккуратность, исполнительность, ответственность.
+Условия: график работы: дни работы: 2/2, время работы: 08:00-17:00 W зарплата: от 30000 руб./месяц W предоставление жилья W адрес места работы: Нижегородская область, Городецкий район, поселок Аксентис W ответственный за прием на работу Юлия Борисовна W звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>351</RUBRNOMER>
+<RUBR>Туризм и гостиничное дело --> Туризм и гостиничное дело</RUBR>
+<RUBR_NAJ>Фармацевтика. Медицина --> Медицина</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-17:00</GAFIK><GAFIK NUMB='3'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006397</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Горничная номерного фонда</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Парк-Отель Кулибин </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112719.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5260366574</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 904 905-5750</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 2-020-342</TELEF_NOMER></TELEF>
+<ZARPL>50400-75000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №7/1 60,5х66</REKLAMAGAZETA>
+<ZARPLSITE>1`50400`75000`руб.</ZARPLSITE>
+<ELPOCHTA>n.sapozhnikova@kulibin-hotel.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>m.sapoznikova@kulibin-hotel.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: уборка и содержание в чистоте жилых номеров гостиницы, санузлов и другие закрепленные помещенияW осуществляет смену постельного белья и полотенецW принимает номер от проживающих при их выездеW при обнаружении порчи имущества и оборудования проживающими сообщает старшей горничной или дежурному по этажуW принимает от проживающих заказы на бытовые услуги и обеспечивает их своевременное выполнениеW соблюдает правила техники безопасностиW этические нормы общения с проживающими.
+Требования: порядочностьW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы: дни работы: 2/2, время работы: 08:00-20:00 W зарплата: от 50400-75000 руб./месяц W служебное питание и медицинский осмотрW адрес места работы: город Нижний Новгород, Нижегородский район, улица Максима Горького, дом 121 W ответственный за прием на работу Наталья ВладимировнаW звонить: 09:00-18:00</DOPINFORMS>
+<RUBRNOMER>351</RUBRNOMER>
+<RUBR>Туризм и гостиничное дело --> Туризм и гостиничное дело</RUBR>
+<RUBR_NAJ>Туризм и гостиничное дело --> Туризм и гостиничное дело</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>09:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006397</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Горничная сауны</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Парк-Отель Кулибин </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/112719.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5260366574</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 904 905-5750</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 2-020-342</TELEF_NOMER></TELEF>
+<ZARPL>5400 руб./смена</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №7/1 60,5х66</REKLAMAGAZETA>
+<ZARPLSITE>1`5400`11000`руб.</ZARPLSITE>
+<ELPOCHTA>n.sapozhnikova@kulibin-hotel.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>m.sapoznikova@kulibin-hotel.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: уборка и содержание в чистоте жилых номеров гостиницы, санузлов и другие закрепленные помещенияW осуществляет смену постельного белья и полотенецW принимает номер от проживающих при их выездеW при обнаружении порчи имущества и оборудования проживающими сообщает старшей горничной или дежурному по этажуW принимает от проживающих заказы на бытовые услуги и обеспечивает их своевременное выполнениеW соблюдает правила техники безопасностиW этические нормы общения с проживающими.
+Требования: порядочностьW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы: дни работы: 2/2, время работы: 08:00-20:00 W зарплата: 5400 руб./смена W служебное питание и медицинский осмотрW адрес места работы: ггород Нижний Новгород, Нижегородский район, улица Максима Горького, дом 121 W ответственный за прием на работу Наталья ВладимировнаW звонить: 09:00-18:00</DOPINFORMS>
+<RUBRNOMER>351</RUBRNOMER>
+<RUBR>Туризм и гостиничное дело --> Туризм и гостиничное дело</RUBR>
+<RUBR_NAJ>Туризм и гостиничное дело --> Туризм и гостиничное дело</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>09:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006399</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>18.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>город Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>63</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>город Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>63</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>АО КАРАВАЙ </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/1029.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5200000110</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 4-289-559</TELEF_NOMER></TELEF>
+<ZARPL>Дог.</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №8  60,5х76</REKLAMAGAZETA>
+<ZARPLSITE>1'20000'50000'руб.</ZARPLSITE>
+<ELPOCHTA>karavay@karavaynn.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>karavay@karavaynn.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: погрузо-разгрузочные работыW обеспечивать сохранность товарно-материальных ценностейW переноска грузов, их погрузка и разгрузкаW уборка строительного мусораW соблюдение техники безопастности.
+Требования: опыт работыW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы 1: дни работы 1: 2/2, время работы 1: 08:00-20:00 W зарплата: от 35000 руб./месяц W график работы 2: дни работы 2: 2/2, время работы 2: 20:00-08:00 W зарплата: от 35000 руб./месяц W адрес места работы: город Нижний Новгород, Советский район, улица Ошарская, дом 74 W ответственный за прием на работу Татьяна ГенриховнаW звонить: 08:00-17:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Продукты питания</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>2/2</GAFIK><GAFIK NUMB='4'>20:00-08:00</GAFIK><GAFIK NUMB='5'>08:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>К00000003551</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>20.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Чистый двор-НН </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5261092573</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 (831) 2-430-090</TELEF_NOMER></TELEF>
+<ZARPL>от 60000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 60000 руб./месяц`от 60000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>OK@NIZH.MAG-RF.RU</ELPOCHTA>
+<ELPOCHTAKADROVIK>e.kuymova@nizh.mag-rf.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: погрузка мусорных баков на мусоровоз W разгрузка КГМ W сбор мусора лопатой W помощь водителю W соблюдение техники безопасности.
+Требования: без вредных привычек W физическая выносливость W аккуратность W внимательность W желание работать.
+Условия: график работы: дни работы: 3/3, время работы: 08:00-18:00 W зарплата: от 60000 руб./месяц W спец. одежда W адрес места работы: город Нижний Новгород, Московский район, Московское шоссе, дом 83/А, корпус 23 W ответственный за прием на работу Евгения W звонить: 08:00-18:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Рабочий персонал --> Рабочие специальности</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>3/3</GAFIK><GAFIK NUMB='2'>08:00-18:00</GAFIK><GAFIK NUMB='3'>08:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>ОМ0000023373</SCHETNOMER>
+<ELPOCHTAMENEDGER>iseleva.l@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>24.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>ЗАО «Сормовская кондитерская фабрика» была образована в 1937 году. С 2003 года входит в Холдинг «Объединённые кондитеры». На сегодняшний день является ведущим кондитерским предприятием города Нижнего Новгорода и Нижегородской области и занимает устойчивые позиции на региональном рынке.
+
+Сормовская кондитерская фабрика – одно из немногих предприятий в Нижегородской области, которое выпускает полный ассортимент кондитерских изделий и производит первичную переработку какао-бобов. Четыре основных производства обеспечивают весь спектр сладкой продукции. Конфеты весовые и фасованные, шоколад, вафли, конфеты в коробках, печенье, зефир, мармелад, пряники - всего восемь категорий и около 200 наименований.
+
+На протяжении всех лет работы кондитеры фабрики строго следят за качеством выпускаемой продукции. Сладкие изделия изготавливаются из экологически чистого сырья с использованием современных технологий. Вся выпускаемая продукция и производство сертифицированы по системе менеджмента качества ИСО - 9001 и менеджмента безопасности ИСО - 22 000. «Сормовская кондитерская фабрика» успешно прошла надзорный аудит на соответствие системы менеджмента безопасности пищевой продукции требованиям ISO 22000:2018, ISO /TS 22002-1: 2009, а также дополнительным требованиям схемы сертификации FSSC 22000, и в качестве подтверждения соответствия требованиям получила сертификат международного уровня FSSC 22000 «Food Safety System Certification 22000» ( Версия 5).
+
+«Сормовская кондитерская фабрика» – это динамично развивающееся предприятие, отвечающее всем современным тенденциям рынка. Развитая сеть дистрибуции позволяет реализовывать продукцию фабрики не только на региональном рынке, но и за пределами страны. Поставки осуществляются в США, Европу, Израиль, страны СНГ и ряд государств Ближнего Востока.
+
+Коллектив фабрики ежегодно выпускает новинки, многие из которых уже полюбились потребителям: конфеты «Чёрный кот» с печеньем, вафельные конфеты «Озорной мишка» со вкусом пломбира и сливочного ириса; помадные конфеты «Ромашковый луг», «Васильковая страна», «Ластушка-подружка»; печенье «Кампарэль» со вкусом апельсина и другие сладкие продукты.
+
+Предприятие предлагает интересную работу для энергичных, ответственных, нацеленных на достижение результата специалистов.</OPISANIYEKOMPAN>
+<OPISANIYETEL>Приемная +7(831)225-39-04, Отедл кадров +7(831)273-84-10, Отедл кадров +7(831)273-21-84, </OPISANIYETEL>
+<OPISANIYEWEB>https://www.uniconf.ru/factories/sormovskaya</OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>Сормовский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603003</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>Сормовский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603003</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ЗАО Сормовская кондитерская фабрика </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/1391.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5263001532</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 952 479-7783</TELEF_NOMER></TELEF>
+<ZARPL>до 80000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №3 127х85</REKLAMAGAZETA>
+<ZARPLSITE>1`80000`160000`руб.</ZARPLSITE>
+<ELPOCHTA>nybykova@zaoskf.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>snhapaeva@zaoskf.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: набор продукции по накладным W осуществление погрузки и разгрузки Wсоблюдение инструкций W поддержание порядка W поддержание вверенного оборудования в рабочем состоянии.
+Требования: внимательностьWдисциплинированностьW ответственностьW без вредных привычекW желание работать.
+Условия: график работы: дни работы: 5/2, время работы: 08:00-17:00 W зарплата: до 80000 руб./месяц W оформление в соответствии с ТК РФ W оплата отпусков, б/л, социальные льготы (дотации, путевки, премии) W Оформление медицинской книжки за счет компанииW адрес места работы: город Нижний Новгород, Сормовский район Wответственный за прием на работу Наталья Wзвонить: 09:00-17:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Продукты питания</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>08:00-17:00</GAFIK><GAFIK NUMB='3'>09:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005010</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>26.12.24</SCHETDATA>
+<OPISANIYEKOMPAN>ООО «Ваше Хозяйство» — российская производственная компания, разрабатывающая и производящая широкий спектр товаров для личных подсобных хозяйств населения и садоводов.
+
+Знание особенностей личного подсобного и дачного хозяйства, тонкостей возделывания садово-огородных культур и содержания домашних жи­вот­ных на по­дворье позволяет нашей компании создавать и предлагать потребителям товары, идеально подходящие именно для них. Высокое качество наших товаров и их эффективность уже оценили миллионы хозяев подворий и садоводов. На данный момент ООО «Ваше хо­зяй­ство» является одним из признанных лидеров рынка.
+
+ООО «Ваше хозяйство» было учреждено в 1997 году и с тех пор неизменно следует выбранному курсу — производить и продавать товары, помогающие владельцам подворий и садовых участков получать больше вкусной, экологически чистой продукции с меньшими затратами средств и труда. Для этого мы постоянно совершенствуем уже существующие товары и разрабатываем новые. География поставок — практически все регионы России, а также страны-участницы таможенного союза. Круг потребителей нашей продукции год от года становится всё шире, а народная молва об отличных результатах применения привлекает всё больше и больше хозяев подворий и, вообще, всех жителей России. Мы ценим и бережем свое доброе имя, поставляя продукцию, в качестве которой уверены. Именно поэтому большинство потребителей становятся лояльными приверженцами наших торговых марок. Мы стремимся к взаимной выгоде при работе с партнерами, честности и открытости в отношениях.
+Основные направления деятельности компании:
+
+    производство кормовых добавок для домашнего скота и птицы, товаров для домашнего жи­вот­но­вод­ства;
+    производство минеральных и органоминеральных удобрений для садовых, огородных и цветочных культур;
+    производство, расфасовка и оптовая торговля средствами защиты растений от вре­ди­те­лей, болезней и сорняков в личных подсобных хо­зяй­ствах и на дачных участках;
+    производство средств против вредных насекомых — тараканов, муравьев, мух, комаров, моли, иксодовых клещей;
+    производство средств для борьбы с крысами, мышами и кротами в быту и в практике профессиональной дератизации;
+    производство для сельскохозяйственных предприятий кормовых добавок, комплексных удобрений и т. п.
+    расфасовка и оптовая торговля семенами овощей и цветов, а также луковичными цветами.
+
+На данный момент «Ваше хо­зяй­ство» производит более 450 артикулов собственной продукции, причём большую часть по собственным техническим условиям (более 120 ТУ), разработанным специалистами компании совместно с ведущими в своих областях научными учреждениями России, зарубежными партнерами. Для обеспечения растущих объемов производства и стабильно высокого качества продукции компания располагает значительными производственными мощностями, в т. ч. более 30 000 м2 производственных, складских и офисных помещений, большим парком современного оборудования, квалифицированным персоналом. Мы производим более 100 миллионов единиц продукции в год!</OPISANIYEKOMPAN>
+<OPISANIYETEL>Офис +7(831)221-35-34, HR специалист +7-920-035-13-70, HR отдел +7(831) 279-58-86, </OPISANIYETEL>
+<OPISANIYEWEB>https://www.vhoz.ru</OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA>Базовый проезд</ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM>9</ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION>р-н Канавинский</ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX>603028</ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA>Базовый проезд</ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM>9</ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION>р-н Канавинский</ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX>603028</ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Ваше хозяйство . </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5261020018</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 920 035-1370</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 999 073-9751</TELEF_NOMER></TELEF>
+<ZARPL>60000-63000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>1`60000`63000`руб.</ZARPLSITE>
+<ELPOCHTA>vhpers@vhoz.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>vhpers@vhoz.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: погрузо-разгрузочные работы W работа на производстве товаров для личных подсобных хозяйств W премещение грузов на территории W размещение товара на складе W переборка продукции.
+Требования: без вредных привычек W опыт работы не обязателен W ответственность W дисциплинированность W физическая выносливость.
+Условия: график работы: дни работы: 5/2, время работы: 9:00-18:00 W зарплата: 60000-63000 руб./месяц W оплата сверхурочных W адрес места работы: город Нижний Новгород, Канавинский район, улица Базовый проезд, дом 5 W звонить 9:00-17:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Работа без специальной подготовки. Без опыта. Начало карьеры --> Обслуживающий персонал</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>9:00-18:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>КОЧ000002520</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>09.01.25</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ИП Ярмолюк Наталия Борисовна</NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>525601966651</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 950 617-9896</TELEF_NOMER></TELEF>
+<ZARPL>от 50000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>от 50000 руб./месяц`от 50000 руб./месяц</ZARPLSITE>
+<ELPOCHTA>natashaya_10@mail.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK></ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Требования: дисциплинированностьW ответственностьW опыт работы желателенW пунктуальностьW исполнительность.
+Обязанности: на теплый склад W перенос ткани в рулонахW соблюдение техники безопасностиW работа с накладными W соблюдение порядка на складе.
+Условия: график работы: дни работы: 5/2, время работы: 09:00-17:00 W выплаты без задержек Wзарплата: от 50000 руб./месяц W премии W адрес места работы: город Нижний Новгород, Советский район W ответственный за прием на работу НаталияW звонить: 09:00-17:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Склад --> Складские работники</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>09:00-17:00</GAFIK><GAFIK NUMB='3'>09:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Кас000006409</SCHETNOMER>
+<ELPOCHTAMENEDGER>4232014@mail.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>10.01.25</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Атон М </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/8295.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5263100621</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 920 002-0659</TELEF_NOMER></TELEF>
+<ZARPL>50000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>1`50000`100000`руб.</ZARPLSITE>
+<ELPOCHTA>info@atonmebel.com</ELPOCHTA>
+<ELPOCHTAKADROVIK>sveta.horeva2017@yandex.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: погрузо-разгрузочные работыW обеспечивать сохранность товарно-материальных ценностейW переноска грузов, их погрузка и разгрузкаW уборка строительного мусораW соблюдение техники безопастности.
+Требования: опыт работы желателенW ответственностьW аккуратностьW внимательностьW исполнительность.
+Условия: график работы: дни работы: 2/2, время работы: 08:00-20:00 W зарплата: 50000 руб./месяц W ежедневные выплатыW жилье предоставляетсяW адрес места работы: город Нижний Новгород, Сормовский район, улица Федосеенко, дом 6 W ответственный за прием на работу: натальяW звонить: 09:00-19:00</DOPINFORMS>
+<RUBRNOMER>57</RUBRNOMER>
+<RUBR>Работа без специальной подготовки. Без опыта. Начало карьеры --> Грузчики. Рабочие</RUBR>
+<RUBR_NAJ>Производство. Промышленность --> Мебельное производство. Деревообработка</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>08:00-20:00</GAFIK><GAFIK NUMB='3'>09:00-19:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Ю00000005008</SCHETNOMER>
+<ELPOCHTAMENEDGER>zue-lena@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>09.01.25</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Грузчик в супермаркет</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО Торговый дом Народный </NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5256024017</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 951 905-7031</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 (831) 2-938-131</TELEF_NOMER></TELEF>
+<ZARPL>30000-50000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №4 127х173</REKLAMAGAZETA>
+<ZARPLSITE>1`30000`50000`руб.</ZARPLSITE>
+<ELPOCHTA>platova_mn@tdnarodny.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>platova_mn@tdnarodny.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Обязанности: работа в продовольственном супермаркете W погрузо-разгрузочные работы W перемещение товара внутри магазина W выполнение заданий руководителя линии погрузки W упаковка картонной тары в супермаркете.
+Требования: физически выносливый W умение работать в команде W честность W ответственность W исполнительность.
+Условия: график работы: дни работы: 2/2, время работы: 8:00-20:00 W зарплата: 30000-50000 руб./месяц W соц.пакет W адрес места работы 1: город Нижний Новгород, Автозаводский район, улица Дьяконова, дом 11/А, Торговый дом &quot;Новый век&quot; W адрес места работы 2: город Нижний Новгород, Ленинский район, проспект Ленина, дом 72, Торговый дом &quot;Народный&quot; W звонить: 9:00-17:00</DOPINFORMS>
+<RUBRNOMER></RUBRNOMER>
+<RUBR></RUBR>
+<RUBR_ATRYB>lenta</RUBR_ATRYB>
+<RUBR_NAJ>Вакансии ведущих компаний --> Престиж полоса</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>2/2</GAFIK><GAFIK NUMB='2'>8:00-20:00</GAFIK><GAFIK NUMB='3'>9:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>Б00000003713</SCHETNOMER>
+<ELPOCHTAMENEDGER></ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST>Нижегородская область</ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD>Нижний Новгород</ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST>Нижегородская область</ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD>Нижний Новгород</ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Дворник</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ИП Мамедов Тамраз Давутович</NAZVKOMPAN>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>662339953195</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 910 143-9147</TELEF_NOMER></TELEF>
+<ZARPL>25000 руб./месяц</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №1 62х41</REKLAMAGAZETA>
+<ZARPLSITE>1`25000`50000`руб.</ZARPLSITE>
+<ELPOCHTA>kliningntreklama@gmail.com</ELPOCHTA>
+<ELPOCHTAKADROVIK>kliningntreklama@gmail.com</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Требования: ответственность W исполнительность W без вредных привычек W наличие активной жизненной позиции W дисциплинированность.
+Обязанности: уборка мусора на закреплённой территории W транспортировка мусора в контейнеры W своевременная очистка от снега и льда территории W очистка от мусора уличных урн W содержание фасада здания в чистоте и порядке.
+Условия: график работы: дни работы: 5/2, время работы: 08:00-17:00 W выплаты без задержек W зарплата: 25000 руб./месяц W адрес места работы: город Нижний Новгород, Ленинский, Нижегородский, Приокский районы W ответственный за прием на работу Ольга W звонить: 09:00-18:00</DOPINFORMS>
+<RUBRNOMER>8</RUBRNOMER>
+<RUBR>Рабочий персонал --> Рабочие специальности</RUBR>
+<RUBR_NAJ>Работа без специальной подготовки. Без опыта. Начало карьеры --> Обслуживающий персонал</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>5/2</GAFIK><GAFIK NUMB='2'>08:00-17:00</GAFIK><GAFIK NUMB='3'>09:00-18:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+<ROW>
+<SCHETNOMER>ОМ0000023374</SCHETNOMER>
+<ELPOCHTAMENEDGER>iseleva.l@yandex.ru</ELPOCHTAMENEDGER>
+<SCHETDATA>25.12.24</SCHETDATA>
+<OPISANIYEKOMPAN></OPISANIYEKOMPAN>
+<OPISANIYETEL></OPISANIYETEL>
+<OPISANIYEWEB></OPISANIYEWEB>
+<ADRESSOBESEDOVANI>
+   <ADRESSOBESEDOVANI-OBLAST></ADRESSOBESEDOVANI-OBLAST>
+   <ADRESSOBESEDOVANI-GOROD></ADRESSOBESEDOVANI-GOROD>
+   <ADRESSOBESEDOVANI-ULICA></ADRESSOBESEDOVANI-ULICA>
+   <ADRESSOBESEDOVANI-DOM></ADRESSOBESEDOVANI-DOM>
+   <ADRESSOBESEDOVANI-OFFISE></ADRESSOBESEDOVANI-OFFISE>
+   <ADRESSOBESEDOVANI-RAION></ADRESSOBESEDOVANI-RAION>
+   <ADRESSOBESEDOVANI-INDEX></ADRESSOBESEDOVANI-INDEX>
+</ADRESSOBESEDOVANI>
+<ADRESSORABOTI>
+   <ADRESSORABOTI-OBLAST></ADRESSORABOTI-OBLAST>
+   <ADRESSORABOTI-GOROD></ADRESSORABOTI-GOROD>
+   <ADRESSORABOTI-ULICA></ADRESSORABOTI-ULICA>
+   <ADRESSORABOTI-DOM></ADRESSORABOTI-DOM>
+   <ADRESSORABOTI-OFFISE></ADRESSORABOTI-OFFISE>
+   <ADRESSORABOTI-RAION></ADRESSORABOTI-RAION>
+   <ADRESSORABOTI-INDEX></ADRESSORABOTI-INDEX>
+</ADRESSORABOTI>
+<VAKNAZV>Оператор ПЦН</VAKNAZV>
+<VAKOPISANIYE></VAKOPISANIYE>
+<NAZVKOMPAN>ООО СОФ Титан </NAZVKOMPAN>
+<LOGOTIP>file:///D:/MainSQL/XML/Logotipy/3531.svg</LOGOTIP>
+<BRENDKOMPAN></BRENDKOMPAN>
+<INNKOMPAN>5259069432</INNKOMPAN>
+<TELEF><TELEF_NOMER NUMB='1'>+7 987 082-9292</TELEF_NOMER><TELEF_NOMER NUMB='2'>+7 915 956-9494</TELEF_NOMER></TELEF>
+<ZARPL>2500-5500 руб./сутки</ZARPL>
+<ZARPLATA_NAJ></ZARPLATA_NAJ>
+<REKLAMAGAZETA>Модуль №2 62х85</REKLAMAGAZETA>
+<ZARPLSITE>2500-5500 руб./сутки`2500-5500 руб./сутки</ZARPLSITE>
+<ELPOCHTA>op_bastion@mail.ru</ELPOCHTA>
+<ELPOCHTAKADROVIK>op_bastion@mail.ru</ELPOCHTAKADROVIK>
+<VYPUSKI>13.01.25-20.01.25</VYPUSKI>
+<PUBLON>1736740800</PUBLON>
+<PUBLOFF>1737345600</PUBLOFF>
+<DOPINFORMS>Требования: дисциплинированностьW ответственностьWвнимательностьW опыт работы желателенW пунктуальностьW исполнительность.
+Обязанности: прием и обработка информации о постановке объекта под охрану W выполнение должностных инструкцийW соблюдение техники безопасностиW заполнение журналаW контроль за исправностью диспетчерского пульта.
+Условия: выплаты без задержек W график работы: дни работы: 1/3, время работы: 08:00-08:00 Wзарплата: от 2500-5500 руб./сутки W адрес места работы: город Нижний НовгородW ответственный за подбор персонала СветланаW звонить: 09:00-17:00</DOPINFORMS>
+<RUBRNOMER>335</RUBRNOMER>
+<RUBR>Безопасность --> Охрана. Полиция</RUBR>
+<RUBR_NAJ>Безопасность --> Охрана. Полиция</RUBR_NAJ>
+<GAFIK_RABOTI><GAFIK NUMB='1'>1/3</GAFIK><GAFIK NUMB='2'>08:00-08:00</GAFIK><GAFIK NUMB='3'>09:00-17:00</GAFIK></GAFIK_RABOTI>
+<VREMYARABOTY></VREMYARABOTY>
+<ADRES></ADRES>
+<OBLASTJ></OBLASTJ>
+<GOROD></GOROD>
+<ULICA></ULICA>
+<DOM></DOM>
+<RAYON></RAYON>
+<EMAIL></EMAIL>
+<WEBSITE></WEBSITE>
+<INFPOSLETELEF></INFPOSLETELEF>
+<IMYA></IMYA>
+<FAMILIYA></FAMILIYA>
+<OTCHESTVO></OTCHESTVO>
+<KOGOSPROSITJ></KOGOSPROSITJ>
+<VREMYADZVONKA></VREMYADZVONKA>
+</ROW>
+</DECLARBODY>
