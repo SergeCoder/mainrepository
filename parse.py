@@ -1,4 +1,4 @@
-from excel import (collect_data, xlsx_file, xml_file)
+from excel import (collect_data, xlsx_file)
 
 from bs4 import BeautifulSoup as bs
 import openpyxl as op
@@ -20,14 +20,16 @@ main_sheet = xls.sheet_names[0]
 date = str(datetime.date(datetime.now())).split('-')
 new_file = f'Бронь {date[2]}.{date[1]}.{date[0]}.xlsx'
 
-def parse_numbers(unclear_data, clear_data, data_file):
+def parse_numbers(unclear_data, other_data_list, clear_other_data,
+                  clear_data, data_file):
     """парсит номера из xml"""
     with open(data_file, 'r', encoding="UTF-8") as xml:
         file = xml.read()
 
     soup = bs(file, 'xml')
 
-    collect_data(schet_list=unclear_data, file=main_file, sheet=main_sheet)
+    collect_data(schet_list=unclear_data, other_data=other_data_list,
+                 clear_other_data=clear_other_data, file=main_file, sheet=main_sheet)
 
     schetnomers = soup.find_all('SCHETNOMER')
 

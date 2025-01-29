@@ -1,5 +1,5 @@
-from excel import (create_table, write_data, unclear_list, clear_list,
-                   clear_number_list, xml_file, xlsx_file, new_file)
+from excel import (create_table, write_data, unclear_list, clear_list, clear_other_list,
+                   other_data_list, clear_number_list, xml_file, xlsx_file, new_file)
 from parse import (parse_numbers, clean_numbers)
 
 import openpyxl as op
@@ -50,14 +50,15 @@ class MyWindow(QMainWindow):
 
     def start_parse(self):
         if not self.xlsx_path.text() == '' and not self.xml_path.text() == '':
-            print('Start')
 
-            parse_numbers(unclear_data=unclear_list, clear_data=clear_list, data_file=xml_file)
+            parse_numbers(unclear_data=unclear_list, clear_data=clear_list, other_data_list=other_data_list,
+                          clear_other_data=clear_other_list, data_file=xml_file)
+            print(unclear_list)
 
             clean_numbers(unclear_numbers=clear_list, clear_numbers=clear_number_list)
 
             create_table(file=new_file)
-            write_data(file=new_file, number_list=clear_number_list)
+            write_data(file=new_file, number_list=clear_number_list, other_data_list=clear_other_list)
 
             self.end = QMessageBox(self)
             self.end.setWindowTitle('Конец преобразования')
@@ -65,7 +66,6 @@ class MyWindow(QMainWindow):
             self.exit.clicked.connect(self.close)
             self.stay = self.end.addButton('Остаться', QMessageBox.AcceptRole)
             self.end.exec()
-
 
 def main():
     app = QApplication(sys.argv)
