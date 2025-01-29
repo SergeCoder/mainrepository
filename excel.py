@@ -69,7 +69,7 @@ def write_data(file, number_list):
 
     row = 5
     for number in number_list:
-        if number[0] != '1':
+        if number[0:2] != '1 ':
             sheet[f'A{row}'] = int(number)
         else:
             sheet[f'A{row}'] = int(number[2::])

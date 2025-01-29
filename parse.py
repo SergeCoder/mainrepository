@@ -1,5 +1,4 @@
-from excel import (collect_data,
-                   old_xlsx_file)
+from excel import (collect_data, xlsx_file, xml_file)
 
 from bs4 import BeautifulSoup as bs
 import openpyxl as op
@@ -11,7 +10,7 @@ clear_list = []
 
 clear_number_list = []
 
-main_file = old_xlsx_file # данные о книге
+main_file = xlsx_file # данные о книге
 main_book = op.load_workbook(main_file)
 
 xls = pd.ExcelFile(main_file)
@@ -38,10 +37,6 @@ def parse_numbers(unclear_data, clear_data, data_file):
 
                 phone = schetnomer.find_next('TELEF').text # поиск телефона
 
-                # name = schetnomer.find_next('NAZVKOMPAN').text # поиск названия
-                # inn = schetnomer.find_next('INNKOMPAN').text  # поиск ИНН
-                # date = schetnomer.find_next('SCHETDATA').text  # поиск даты начала
-
                 if phone.count('+') >= 2: # если в строке больше одного номера
                     count_phones = phone.count('+') # ищет количество номеров
                     phone = phone.split('+')
@@ -60,10 +55,20 @@ def clean_numbers(unclear_numbers, clear_numbers):
     """приводит номера к стандарту"""
     number_list = [''.join(filter(str.isdigit, number)) for number in unclear_numbers]
     for number in number_list:
-        if number[0] != '1': # если не больше одного номера
+        if number[0:2] != '1 ': # если не больше одного номера
             number = '8{}{}{}{}'.format(number[1:4], number[4:7], number[7:9], number[9:11])
-            clear_numbers.append(number)
+            if number[0:4] == '8831':
+                clear_numbers.append(number[4::])
+            elif number[0:4] == '8832':
+                clear_numbers.append(number[4::])
+            else:
+                clear_numbers.append(number)
 
         else: # если больше одного номера
             number = '8{}{}{}{}'.format(number[1:4], number[4:7], number[7:9], number[9:11])
-            clear_numbers.append(f'1 {number}')
+            if number[0:4] == '8831':
+                clear_numbers.append(number[4::])
+            elif number[0:4] == '8832':
+                clear_numbers.append(number[4::])
+            else:
+                clear_numbers.append(f'1 {number}')
