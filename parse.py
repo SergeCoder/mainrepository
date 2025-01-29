@@ -1,4 +1,4 @@
-from excel import (collect_data, xlsx_file)
+from excel import (collect_data, xlsx_file, clear_other_list, other_data_list, xml_file)
 
 from bs4 import BeautifulSoup as bs
 import openpyxl as op
@@ -74,3 +74,6 @@ def clean_numbers(unclear_numbers, clear_numbers):
                 clear_numbers.append(number[4::])
             else:
                 clear_numbers.append(f'1 {number}')
+
+# parse_numbers(unclear_data=unclear_list, clear_data=clear_list, other_data_list=other_data_list,
+#                          clear_other_data=clear_other_list, data_file=xml_file)
