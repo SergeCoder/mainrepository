@@ -8,33 +8,46 @@ unclear_list = []
 clear_list = []
 
 clear_number_list = []
+log_list = []
+check_list = []
+
 other_data_list = []
 clear_other_list = []
 
+copy_data_list = []
+copy_other_list = []
+clear_copy_list = []
+unfound_numbers = []
+
+check_files = []
 report_files = []
 xlsx_files = []
 xml_files = []
+
+check_dates = []
+report_dates = []
 xlsx_dates = []
 xml_dates = []
 
-def open_report():
+def find_report():
     """открытие отчета"""
     all_files = os.listdir()
     for file in all_files:
         date = re.findall('([0-9]{4})', file)
         try:
-            if '.xlsx' and date[0] in file:  # поиск xlsx файла
+            if 'отчет' in file.lower():  # поиск xlsx отчета
                 report_files.append(file)
+                report_dates.append(file[-9:-5:])
         except IndexError:
             continue
 
-def open_book(xlsx_files, xml_files, xlsx_dates, xml_dates):
+def find_books(xlsx_files, xml_files, xlsx_dates, xml_dates):
     """открытие книг"""
     all_files = os.listdir()
     for file in all_files:
         date = re.findall('([0-9]{2}\\.[0-9]{2}\\.[0-9]{4})', file)
         try:
-            if '.xlsx' and date[0] in file: # поиск xlsx файла
+            if ('бронь' in str(file).lower()) and (date[0] in str(file).lower()): # поиск xlsx файла
                 xlsx_files.append(file)
                 xlsx_dates.append(file[-15:-5:])
         except IndexError:
@@ -44,8 +57,8 @@ def open_book(xlsx_files, xml_files, xlsx_dates, xml_dates):
             xml_files.append(file)
             xml_dates.append(file[-15:-4:])
 
-open_book(xlsx_files=xlsx_files, xml_files=xml_files, xlsx_dates=xlsx_dates, xml_dates=xml_dates)
-open_report()
+find_books(xlsx_files=xlsx_files, xml_files=xml_files, xlsx_dates=xlsx_dates, xml_dates=xml_dates)
+find_report()
 
 xlsx_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
              f'{xlsx_files[xlsx_dates.index(max(xlsx_dates))]}')
@@ -54,18 +67,18 @@ xml_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
             f'{xml_files[xml_dates.index(max(xml_dates))]}')
 
 report_file = (f'{os.path.dirname(os.path.abspath(__file__))}\\'
-               f'{max(report_files)}')
+               f'{report_files[report_dates.index(max(report_dates))]}')
 
 date = str(datetime.date(datetime.now())).split('-')
 new_file = f'Бронь {date[2]}.{date[1]}.{date[0]}.xlsx'
+unfound_file = f'Проверка {date[2]}.{date[1]}.{date[0]}.xlsx'
+log_file = f'Log {date[2]}.{date[1]}.{date[0]}.xlsx'
 
 def collect_data(schet_list, other_data, clear_other_data, file, sheet):
     """сбор данных из прайс-листа"""
     info = pd.read_excel(file, sheet) # поиск количества строк
     count = info.count().to_list()
-    print(count)
     count = count[6]
-    print(count)
 
     df = pd.read_excel(file, sheet_name=sheet)
     numbers = df.iloc[:, 6] # поиск информации в таблице
@@ -81,7 +94,6 @@ def collect_data(schet_list, other_data, clear_other_data, file, sheet):
     prices_makets = df.iloc[:, 10]
 
     for number in range(2, count+2): # форматирование счетов и данных
-        print(number)
         schetnomer = numbers[number]
 
         try:
@@ -119,13 +131,17 @@ def create_table(file):
     book = op.Workbook()
     sheet = book.active
 
+    sheet.delete_cols(0, 25)
+
+    book.save(file)
+
     book.save(file)
     book.close()
 
 def write_data(file, number_list, other_data_list):
     """запись информации в новую книгу"""
     book = op.load_workbook(file)
-    sheet = book['Sheet']
+    sheet = book[pd.ExcelFile(file).sheet_names[0]]
 
     sheet['A4'] = 'Телефон'
     sheet['B4'] = 'Контрагент'
@@ -141,11 +157,7 @@ def write_data(file, number_list, other_data_list):
 
     row = 5
     for number in number_list:
-        if number[0:2] != '1 ':
-            sheet[f'A{row}'] = int(number)
-        else:
-            sheet[f'A{row}'] = int(number[2::])
-
+        sheet[f'A{row}'] = int(number)
         row += 1
 
     row = 5
@@ -166,6 +178,86 @@ def write_data(file, number_list, other_data_list):
     book.save(file)
     book.close()
 
-def check_copies():
+def collect_unfound(copy_list, copy_other_data, clear_data,
+                    unfound_numbers, clear_copy_data, file, sheet):
     """ищет счета в отчете"""
-    pass
+    info = pd.read_excel(file, sheet)  # поиск количества строк
+    count = info.count().to_list()
+    count = count[0]
+
+    df = pd.read_excel(file, sheet_name=sheet)
+    numbers = df.iloc[:, 2]  # поиск информации в таблице
+    names = df.iloc[:, 1]
+    strings = df.iloc[:, 0]
+
+    for number in range(2, count + 2):  # форматирование счетов и данных
+        schetnomer = numbers[number]
+        name = names[number]
+        string = strings[number]
+
+        try:
+            if string.isdigit():
+                copy_list.append(schetnomer)
+        except IndexError:
+            continue
+
+        if (not [string, name] in copy_other_data) and string.isdigit():
+            copy_other_data.append([string, name])
+
+    for data in copy_list:
+        clear_copy_data.append(data.split(' ')[2])
+
+    for clear_schet in clear_copy_data:
+        if (not (clear_schet in clear_data) and
+            not (clear_schet in unfound_numbers)):
+            unfound_numbers.append(clear_schet)
+
+    print(unfound_numbers)
+    print(copy_other_list)
+
+def write_unfound(file, unfound_numbers, copy_other_list):
+    """запись информации в файл для не найденных номеров"""
+    book = op.load_workbook(file)
+    sheet = book[pd.ExcelFile(file).sheet_names[0]]
+
+    sheet['B2'] = 'Не найденные данные в Брони'
+
+    sheet['A4'] = '№ п/п'
+    sheet['B4'] = 'Контрагент'
+    sheet['C4'] = '№ счета'
+
+    row = 5
+    for number in unfound_numbers:
+        sheet[f'C{row}'] = number
+        sheet[f'A{row}'] = copy_other_list[unfound_numbers.index(number)][0]
+        sheet[f'B{row}'] = copy_other_list[unfound_numbers.index(number)][1]
+
+        row += 1
+
+    book.save(file)
+    book.close()
+
+def check_numbers(unclear_data, log_list, check_list):
+    """проверяет номера из xlsx"""
+    for number in unclear_data:
+        if not number in log_list:
+            if not number in check_list:
+                check_list.append(number)
+
+def write_log(file, check_list):
+    """запись информации в файл для не найденных номеров"""
+    book = op.load_workbook(file)
+    sheet = book[pd.ExcelFile(file).sheet_names[0]]
+
+    sheet['A2'] = 'Не найденные данные в xml'
+
+    sheet['A4'] = '№ счета'
+
+    row = 5
+    for number in check_list:
+        sheet[f'A{row}'] = number
+
+        row += 1
+
+    book.save(file)
+    book.close()
